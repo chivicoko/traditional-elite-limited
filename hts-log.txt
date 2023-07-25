@@ -1,0 +1,52 @@
+HTTrack3.49-2 launched on Mon, 24 Jul 2023 13:37:27 at https://theembazaar.com/demo/3xtheme/jio-construction/index.html none none
+(winhttrack https://theembazaar.com/demo/3xtheme/jio-construction/index.html -O "/Users/apple/websites/construction-5" -P none:8080 -%v none none )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:41:08	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/robots.txt (from primary/primary)
+13:41:08	Warning: 	Retry after error -5 (Unable to get server's address: nodename nor servname provided, or not known) at link none/ (from primary/primary)
+13:43:53	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/about_us.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index.html)
+13:43:54	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/owl.carousel.js (from https://theembazaar.com/demo/3xtheme/jio-construction/index.html)
+13:43:59	Warning: 	Retry after error -5 (error:00000005:lib(0)::reason(5)) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/extensions/revolution.extension.layeranimation.min.js (from https://theembazaar.com/demo/3xtheme/jio-construction/index.html)
+13:43:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/extensions/revolution.extension.navigation.min.js (from https://theembazaar.com/demo/3xtheme/jio-construction/index.html)
+13:43:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link none/ (from primary/primary)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/openhand.cur (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/closedhand.cur (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/assets/gridtile.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/assets/gridtile_white.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/assets/gridtile_3x3.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/assets/gridtile_3x3_white.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/assets/coloredbg.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/assets/loader.gif (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/settings.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/owl.video.play.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/owl.carousel.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/new_slider02.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/slider-home-construction-02.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/02.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/white-texture.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/parallax1.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/corve.png (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/bg-10.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/bg-11.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:43:59	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/graph.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/style.css)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/shop.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/shop-sidebar.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/shop-details.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/cart.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/checkout.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/blog-single.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:05	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/index1.html (from https://theembazaar.com/demo/3xtheme/jio-construction/index2.html)
+13:44:07	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/portfolio-single.html (from https://theembazaar.com/demo/3xtheme/jio-construction/portfolio-masonry.html)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/You must include the utils.js file before tether.js (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/tether.min.js)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/TweenLite.js (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/jquery.themepunch.tools.min.js)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/Version/ (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/jquery.themepunch.tools.min.js)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/themepunch.revolution.min.js (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/jquery.themepunch.revolution.min.js)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/jquery.themepunch.revolution.min.js (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/jquery.themepunch.revolution.min.js)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/jquery.themepunch.revolution.js (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/js/jquery.themepunch.revolution.min.js)
+13:44:09	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link none/ (from primary/primary)
+13:44:09	Error: 	"Not Found" (404) at link https://theembazaar.com/demo/3xtheme/jio-construction/assets/images/hero-bg.jpg (from https://theembazaar.com/demo/3xtheme/jio-construction/assets/css/header2.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 43 seconds : 249 links scanned, 207 files written (15853781 bytes overall) [14007849 bytes received at 34758 bytes/sec], 4458518 bytes transferred using HTTP compression in 120 files, ratio 30%, 5.5 requests per connection
+(36 errors, 5 warnings, 0 messages)
