@@ -64,8 +64,10 @@
 }
 .menu {
 	border:none;
-	border-bottom: 4px solid #e2a606;
-	border-top: 4px solid #e2a606;
+	border-bottom: 4px solid #ee5930;
+	/* border-bottom: 4px solid #e2a606; */
+	border-top: 4px solid #ee5930;
+	/* border-top: 4px solid #e2a606; */
 	height: 29px;
 	position: absolute;
 	right: 29px;
@@ -81,7 +83,8 @@
 	content: '';
 	width: 100%;
 	height: 4px;
-	background:#e2a606;
+	background:#ee5930;
+	/* background:#e2a606; */
 }
 .header ul {
 	float: right;
@@ -129,7 +132,8 @@
 	-o-transition: top 0.3s ease 0s, visibility 0.2s ease 0.2s, opacity 0.2s ease 0.1s;
 	opacity: 0;
 	visibility: hidden;
-	background-color: #e2a606;
+	background-color: #ee5930;
+	/* background-color: #e2a606; */
 	-webkit-backface-visibility:hidden;
 }
 .navigation .sub-nav li {
@@ -228,7 +232,8 @@
 }
 .header_tran .top_loction ul li a i{
 	    margin-right: 5px;
-	    color: #e2a606;
+	    color: #ee5930;
+	    /* color: #e2a606; */
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
 	.header .top_loction ul li {
@@ -276,12 +281,14 @@
 	    line-height: 49px;
 	    /* border-left: 1px solid #073D51; */
 	    padding: 0 12px;
-	    color: #e2a606;
+	    color: #ee5930;
+	    /* color: #e2a606; */
 	    /* border-color: #212121; */
 	    transition: all .3s ease;
 }
 .header_tran .top-bar-section .top-social-icon .icons-hover-black a:hover, .header_tran .top_loction ul li a:hover{
-	color: #e2a606;
+	color: #ee5930;
+	/* color: #e2a606; */
 }
 /*  Header style 2   ||-----------*/
 .header-2 .primary-header {
@@ -496,11 +503,14 @@
 }
 
 .header-1 .stricky .reletiv_box:before{
-	background: #E8A20D;
+	background: #ee5930;
+	/* background: #E8A20D; */
 }
 .header-1 .stricky .reletiv_box:after{
-	    border-bottom-color:#E8A20D;
-    border-left-color:#E8A20D;
+	    border-bottom-color:#ee5930;
+	    /* border-bottom-color:#E8A20D; */
+    border-left-color:#ee5930;
+    /* border-left-color:#E8A20D; */
 }
 
 .header-1 .navigation > ul > li > a {
@@ -618,11 +628,13 @@ min-width:160px;
 	.header_tran .navigation .sub-nav{
 		width: 100%;
 		position: static;
-		background:#c59000;
+		background:#ee5930;
+		/* background:#c59000; */
 	}
 	
 	.header_tran .navigation .sub-nav li{
-		border-color:#e2a606;
+		border-color:#ee5930;
+		/* border-color:#e2a606; */
 	}
 	
 	.header ul, .header ul li {
@@ -658,7 +670,8 @@ min-width:160px;
 		top: 0;
 		width: 100%;
 		z-index: 9;
-		background:#e2a606;
+		background:#ee5930;
+		/* background:#e2a606; */
 	}
 	.header-1 .navigation {
 		top: 1px;

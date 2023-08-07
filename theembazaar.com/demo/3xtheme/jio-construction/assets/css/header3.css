@@ -625,7 +625,8 @@ ul.menu-col li a:hover, ul.menu-col li a:focus {
 	position: relative;
 }
 .top-part__block:after {
-	background: #e2a606;
+	background: #ee5930;
+	/* background: #e2a606; */
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -636,7 +637,8 @@ ul.menu-col li a:hover, ul.menu-col li a:focus {
 
 .top-part__block:before {
 	content: "";
-	background: #e2a606;
+	background: #ee5930;
+	/* background: #e2a606; */
 	transform: skewX(-30deg);
 	-webkit-transform: skewX(-30deg);
 	height: 100%;

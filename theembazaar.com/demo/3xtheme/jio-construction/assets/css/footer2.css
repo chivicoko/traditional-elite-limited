@@ -1,7 +1,8 @@
 /*footer_input*/
 .news-footer {
 	margin-top: -130px;
-	background: #fbb908;
+	background: #ee5930;
+	/* background: #fbb908; */
 	margin-bottom:70px;
 }
 
@@ -193,12 +194,15 @@
     z-index: -2;
 	width: 60px;
 height: 3px;
-background-color: #ffbc13;
+background-color: #ee5930;
+/* background-color: #ffbc13; */
 }
 
 #footer-widgets .widget.widget_socials .socials a:hover:before {
-    background-color: #ffbc13;
-    border-color: #ffbc13;
+    background-color: #ee5930;
+    /* background-color: #ffbc13; */
+    border-color: #ee5930;
+    /* border-color: #ffbc13; */
 }
 .footer-logo{
     margin-bottom: 20px;

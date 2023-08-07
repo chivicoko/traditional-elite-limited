@@ -15,7 +15,8 @@
  .counter-section__img:before, .counter-section__box .counter:after, .feature-icon-wrap:after, 
  .featured-icon-wrap li:nth-child(2n) .feature-icon-wrap:after, .featured-icon-wrap li:nth-child(3) .feature-icon-wrap:after, 
  .faq .collape-plus, .panel-title a i,.sevice-box .service-text:before,.single-blog-post .content-box .date-box .inner .date {
-  background: #e2a606;
+  background: #ee5930;
+  /* background: #e2a606; */
 }
 
 /*
@@ -26,7 +27,8 @@ a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 .color-primary, a.color-primary, .contact .icon-circle, .single-sidebar-widget .special-links li:hover a,
 .single-sidebar-widget .special-links li a.active, .custom-check:before, .poins ul li i, .testimorial-bg .testimonial .invatic-icon, h2 span, 
 .main-banner .banner-text h2 span, .top-info__block li i, .star i, .testimonial_carosule-wrap .owl-nav div, .contact-info .info li .icon {
-  color: #e2a606;
+  color: #ee5930;
+  /* color: #e2a606; */
 }
 
 /*
@@ -39,9 +41,11 @@ a:hover, .gallery-heading h4 a:hover, .post-meta span > a > i,
 .container-filter li a:hover, .testimorial-bg .testimonial .invatic-icon, .nf-carousel-theme-top .owl-controls .owl-nav .owl-prev, .nf-carousel-theme-top .owl-controls .owl-nav .owl-next,
  .testimonial_carosule-wrap .owl-nav div, .feature-icon-wrap:after, .featured-icon-wrap li:nth-child(2n) .feature-icon-wrap:after, 
  .featured-icon-wrap li:nth-child(3) .feature-icon-wrap:after,.sevice-box:hover .service-text,.single-blog-post .content-box .date-box .inner{
-  border-color: #e2a606;
+  border-color: #ee5930;
+  /* border-color: #e2a606; */
 }
 
 .team-member .inner-box .overlay-box:after, .rightGrip:before, .leftGrip:before{
-	border-bottom-color:#e2a606 ;
+	border-bottom-color:#ee5930 ;
+	/* border-bottom-color:#e2a606 ; */
 }

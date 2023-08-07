@@ -77,7 +77,8 @@
 	margin-bottom: 15px;
 	display: inline-block;
 	margin-right: 1px;
-	background:#e2a606;
+	background:#ee5930;
+	/* background:#e2a606; */
 	color: #fff;
 }
 .footer .blog-link img {
@@ -177,7 +178,8 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	background: #e2a606;
+	background: #ee5930;
+	/* background: #e2a606; */
 	transform: rotate(23deg);
 	transform-origin: 100% 0;
 }
@@ -246,7 +248,8 @@
 	top: 0px;
 	right: 0px;
 	font-size: 18px;
-	background: #e2a606;
+	background: #ee5930;
+	/* background: #e2a606; */
 	line-height:35px;
 	border-radius: 0;
 	width: 49px;
