@@ -5533,7 +5533,7 @@ transform: scale(1);
 	color: #fff;
 	font-weight: bold;
 	display: inline-block;
-	margin: 20px 0 -webkit-transition : color 0.22s ease-in-out;
+	margin: 20px 0 -webkit-transition color 0.22s ease-in-out;
 	transition: color 0.22s ease-in-out;
 }
 .mv-block__mission_link {
